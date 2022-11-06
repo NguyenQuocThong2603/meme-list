@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meme-list/static/css/main.d9fa3a4a.css",
+    "main.js": "/meme-list/static/js/main.cd8f3f37.js",
+    "static/js/787.5b5c1f61.chunk.js": "/meme-list/static/js/787.5b5c1f61.chunk.js",
+    "index.html": "/meme-list/index.html",
+    "main.d9fa3a4a.css.map": "/meme-list/static/css/main.d9fa3a4a.css.map",
+    "main.cd8f3f37.js.map": "/meme-list/static/js/main.cd8f3f37.js.map",
+    "787.5b5c1f61.chunk.js.map": "/meme-list/static/js/787.5b5c1f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9fa3a4a.css",
+    "static/js/main.cd8f3f37.js"
+  ]
+}
